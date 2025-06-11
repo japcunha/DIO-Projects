@@ -4,7 +4,7 @@ public class Program {
     public static void main(String[] args) {
         Iphone meuIphone = new Iphone();
 
-        meuIphone.selectMusic("Imagine - John Lennon");
+        meuIphone.selectMusic("A lua me traiu - Calypso");
         meuIphone.play();
         meuIphone.pause();
 
